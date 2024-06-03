@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: divya1233/docker:14
+        image: divya1233/docker:15
         ports:
         - containerPort: 8080
 
